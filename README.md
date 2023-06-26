@@ -1,4 +1,3 @@
-
 # Cyber Range Team Capstone Project Summary - Red Team
 
 
@@ -27,27 +26,4 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 
 [Documentation](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
 
-## Agile Framework
-- [Jira Schedule 1](https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
-- [Jira Schedule 2](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
-
-## Team Members
-- Alena [@alena](https://www.github.com/)
-- Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
-- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
-- Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
-- Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emtechnode)
-- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
-- Gyan [@gyan](https://www.github.com/octokatherine)
-- Jane [@jjperipheral](https://github.com/jjperipheral)
-- Jared [@jared](https://www.github.com/)
-- Maira [@maira](https://www.github.com/)
-- Nancy [@nancyuddin](https://github.com/nancyuddin)
-- Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
-- Tyesha [@tyesha](https://www.github.com/)
-- Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
-- Volha [@voliatalatynik](https://github.com/orgs/cybertrainingrange/people/voliatalatynik)
-
-
-
+<!-- END -->
