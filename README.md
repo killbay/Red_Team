@@ -22,6 +22,6 @@ Ultimately, the goal of our cyber range is to provide a safe and realistic envir
 
 ## Technical Documentation
 
-[Documentation](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit?usp=share_link)
+[Documentation](https://docs.google.com/document/d/1m6tbMO9jo2y3uSIq1DDq1J46ZTvGD55g/edit?usp=sharing&ouid=106658462797831635612&rtpof=true&sd=true)
 
 <!-- END -->
